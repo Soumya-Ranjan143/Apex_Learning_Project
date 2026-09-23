@@ -1,4 +1,4 @@
-# 🏦 Loan Eligibility Prediction & Classification Pipeline
+# Loan Eligibility Prediction & Classification Pipeline
 
 An end-to-end Machine Learning project designed to automate loan approval predictions using tabular financial and demographic data. 
 
